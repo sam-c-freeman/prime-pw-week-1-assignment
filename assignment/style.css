@@ -1,13 +1,11 @@
 /* Give your page a fun background color */
 html {
     font-size: 100%;
-    height: 100%;
 }
 
 body {
     background-color: blanchedalmond;
-    min-height: 100%;
-}
+   
 
 header, footer{
     background-color: #3bb8e3;
@@ -17,6 +15,7 @@ header, footer{
 header {
     text-align: center;
     font-size:  3rem;
+    margin-top: 0;
 }
 
 img {
