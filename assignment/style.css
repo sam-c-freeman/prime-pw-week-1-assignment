@@ -1,4 +1,8 @@
 /* Give your page a fun background color */
+html {
+    font-size: 100%;
+}
+
 body {
     background-color: blanchedalmond;
 }
@@ -10,6 +14,7 @@ header, footer{
 
 header {
     text-align: center;
+    font-size:  3 rem;
 }
 
 img {
