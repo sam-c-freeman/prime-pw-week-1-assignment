@@ -12,6 +12,10 @@ header {
     text-align: center;
 }
 
+img {
+    border: 5px solid black;
+}
+
 #footerp{
     color: white;
     font-style: italic;
