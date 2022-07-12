@@ -3,6 +3,10 @@ body {
     background-color: blanchedalmond;
 }
 
+header, footer{
+    background-color: #3bb8e3;
+}
+
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
