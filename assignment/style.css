@@ -33,6 +33,7 @@ img {
 #footerp{
     color: white;
     font-style: italic;
+    font-size: 2rem;
 }
 
 /* Make the header and footer a different color from the background */
