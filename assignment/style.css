@@ -8,6 +8,14 @@ header, footer{
     height: 20vh;
 }
 
+header {
+    text-align: center;
+}
+
+#footerp{
+    color: white;
+}
+
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
