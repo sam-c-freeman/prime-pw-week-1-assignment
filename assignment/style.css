@@ -18,6 +18,10 @@ header {
     font-size:  3rem;
 }
 
+h1 {
+    margin-block-start: 0;
+}
+
 img {
     display: block;
     margin-left: auto;
