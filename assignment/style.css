@@ -36,13 +36,12 @@ img {
     font-size: 1.5rem;
 }
 
-#footerp{
-    display: flex;
+.footerp {
     color: white;
     font-style: italic;
     font-size: 2rem;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
+    padding: 20px 0 20px;
 }
 
 /* Make the header and footer a different color from the background */
