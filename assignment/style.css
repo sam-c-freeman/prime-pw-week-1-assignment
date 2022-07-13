@@ -37,10 +37,12 @@ img {
 }
 
 #footerp{
+    display: flex;
     color: white;
     font-style: italic;
     font-size: 2rem;
-    text-align: center;
+    align-items: center;
+    justify-content: center;
 }
 
 /* Make the header and footer a different color from the background */
